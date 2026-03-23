@@ -78,6 +78,7 @@
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) - Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
+- [rivirside/cft](https://github.com/rivirside/cft) - Applies the autoresearch loop to computational social theory - six competing group-formation theories, an intervention system for modeling manipulation and resilience, and a Claude API agent that iterates on experiments via GitHub Actions.
 
 ## 📊 Evaluation & benchmarks
 
