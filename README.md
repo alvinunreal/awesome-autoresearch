@@ -32,6 +32,7 @@
 - [mutable-state-inc/autoresearch-at-home](https://github.com/mutable-state-inc/autoresearch-at-home) - Collaborative fork of upstream autoresearch that adds experiment claiming, shared best-config syncing, hypothesis exchange, and swarm-style coordination across many single-GPU agents.
 - [zkarimi22/autoresearch-anything](https://github.com/zkarimi22/autoresearch-anything) - Generalizes autoresearch to **any measurable metric** — system prompts, API performance, landing pages, test suites, config tuning, SQL queries. "If you can measure it, you can optimize it."
 - [Entrpi/autoresearch-everywhere](https://github.com/Entrpi/autoresearch-everywhere) - Cross-platform expansion that auto-detects hardware config and starts the loop. The "glue and generalization" half of autoresearch.
+- [orzazade/crius](https://github.com/orzazade/crius) - Multi-agent autonomous improvement engine with 6 specialized agents (Research, Design, Quality, Feature, Evaluator, Reflection), phase-based progression, feature throttling, cross-model verification, and a Reflection Agent that writes project-local learned rules.
 - [ShengranHu/ADAS](https://github.com/ShengranHu/ADAS) - **Automated Design of Agentic Systems** — ICLR 2025. Meta-agents that invent novel agent architectures by programming them in code.
 - [MaximeRobeyns/self_improving_coding_agent](https://github.com/MaximeRobeyns/self_improving_coding_agent) - **SICA**: Self-Improving Coding Agent that edits its own codebase. ICLR 2025 Workshop paper demonstrating scaffold-level self-improvement on coding benchmarks.
 - [peterskoett/self-improving-agent](https://github.com/peterskoett/self-improving-agent) - Alternative self-improving agent architecture with reflection and meta-learning cycles.
@@ -125,11 +126,11 @@ Curated lists and paper collections for AI agents, autonomous systems, and autom
 ## Star History
 
 <a href="https://www.star-history.com/?type=date&repos=alvinunreal%2Fawesome-autoresearch">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&legend=top-left" />
- </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=alvinunreal%2Fawesome-autoresearch&type=date&legend=top-left" />
+  </picture>
 </a>
 
 ## 📄 License
