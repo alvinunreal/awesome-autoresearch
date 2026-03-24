@@ -60,6 +60,7 @@
 - [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) - Low-code Python package for **automated systematic literature reviews** via AI-powered agents.
 - [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) - AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing.
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
+- [WecoAI/aideml](https://github.com/WecoAI/aideml) - **AIDE**: AI-Driven Exploration — tree-search-based ML engineering agent that automates experiment design, code generation, and evaluation. Treats ML engineering as code optimization against any metric.
 
 ## 💻 Platform ports and hardware forks
 
