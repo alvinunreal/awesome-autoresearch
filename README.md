@@ -79,6 +79,7 @@
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) - Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
+- [ddupont808/linux-vm-autoresearch](https://github.com/ddupont808/linux-vm-autoresearch) - Applies the autoresearch loop to JIT compiler optimization for x86 Linux emulation in v86 (WebAssembly), using MAP-Elites + island model evolutionary search to maximize boot progress in a fixed time window.
 
 ## 📊 Evaluation & benchmarks
 
