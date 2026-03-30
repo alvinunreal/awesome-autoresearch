@@ -8,6 +8,20 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg?style=flat-square)](./LICENSE)
 
+<sub>by **Boring Dystopia Development**</sub>
+
+<p align="center">
+  <a href="https://boringdystopia.ai/">
+    <img src="https://img.shields.io/badge/boringdystopia.ai-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="boringdystopia.ai" />
+  </a>&nbsp;
+  <a href="https://x.com/alvinunreal">
+    <img src="https://img.shields.io/badge/X-@alvinunreal-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @alvinunreal" />
+  </a>&nbsp;
+  <a href="https://t.me/boringdystopiadevelopment">
+    <img src="https://img.shields.io/badge/Telegram-Join%20channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Join channel" />
+  </a>
+</p>
+
 </div>
 
 ## Contents
