@@ -37,6 +37,8 @@
 
 ## 🛠️ General-purpose descendants
 
+- [kayba-ai/recursive-improve](https://github.com/kayba-ai/recursive-improve) ![GitHub stars](https://img.shields.io/github/stars/kayba-ai/recursive-improve?style=social) - Recursive self-improvement framework where agents capture execution traces, analyze failure patterns, and apply targeted fixes with keep-or-revert evaluation.
+- [vukrosic/auto-research](https://github.com/vukrosic/auto-research) ![GitHub stars](https://img.shields.io/github/stars/vukrosic/auto-research?style=social) - Docs-only control plane for an open autonomous AI research lab — file-based operating model for human direction and agent execution.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) ![GitHub stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social) - Claude Code skill that generalizes autoresearch into a reusable loop for software, docs, security, shipping, debugging, and other measurable goals.
 - [leo-lilinxiao/codex-autoresearch](https://github.com/leo-lilinxiao/codex-autoresearch) ![GitHub stars](https://img.shields.io/github/stars/leo-lilinxiao/codex-autoresearch?style=social) - Codex-native autoresearch skill with resume support, lessons across runs, optional parallel experiments, and mode-specific workflows.
 - [supratikpm/gemini-autoresearch](https://github.com/supratikpm/gemini-autoresearch) ![GitHub stars](https://img.shields.io/github/stars/supratikpm/gemini-autoresearch?style=social) - Gemini CLI skill that generalises autoresearch to any measurable goal. Gemini-native: uses Google Search grounding as a live verification source inside the loop, true headless overnight mode via --yolo --prompt, and 1M token context. Also works in Antigravity IDE via .agents/skills/.
@@ -83,6 +85,7 @@
 
 ## 💻 Platform ports and hardware forks
 
+- [gianfrancopiana/openclaw-autoresearch](https://github.com/gianfrancopiana/openclaw-autoresearch) ![GitHub stars](https://img.shields.io/github/stars/gianfrancopiana/openclaw-autoresearch?style=social) - OpenClaw port of pi-autoresearch; autonomous experiment loop for any optimization target with statistical confidence scoring.
 - [miolini/autoresearch-macos](https://github.com/miolini/autoresearch-macos) ![GitHub stars](https://img.shields.io/github/stars/miolini/autoresearch-macos?style=social) - Widely adopted macOS fork that adapts upstream autoresearch for Apple Silicon / MPS while preserving the original loop shape.
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) ![GitHub stars](https://img.shields.io/github/stars/trevin-creator/autoresearch-mlx?style=social) - MLX-native Apple Silicon port that keeps the upstream fixed-budget `val_bpb` loop while removing the PyTorch/CUDA dependency entirely.
 - [jsegov/autoresearch-win-rtx](https://github.com/jsegov/autoresearch-win-rtx) ![GitHub stars](https://img.shields.io/github/stars/jsegov/autoresearch-win-rtx?style=social) - Windows-native RTX fork focused on consumer NVIDIA GPUs, with explicit VRAM floors and a practical desktop setup path.
