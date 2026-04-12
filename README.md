@@ -103,6 +103,7 @@
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) ![GitHub stars](https://img.shields.io/github/stars/RightNow-AI/autokernel?style=social) - Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) ![GitHub stars](https://img.shields.io/github/stars/Rkcr7/autoresearch-sudoku?style=social) - Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
 - [jeongph/autospec](https://github.com/jeongph/autospec) ![GitHub stars](https://img.shields.io/github/stars/jeongph/autospec?style=social) - Reads natural-language business rules and autonomously builds a Spring Boot service with tests via the keep-or-revert loop. Evaluates with Gradle build + JUnit XML. 119-line skeleton to 950 lines in 5 cycles.
+- [rivirside/cft](https://github.com/rivirside/cft) ![GitHub stars](https://img.shields.io/github/stars/rivirside/cft?style=social) - Applies the autoresearch loop to computational social theory - six competing group-formation theories, an intervention system for modeling manipulation and resilience, and a Claude API agent that iterates on experiments via GitHub Actions.
 
 ## 📊 Evaluation & benchmarks
 
